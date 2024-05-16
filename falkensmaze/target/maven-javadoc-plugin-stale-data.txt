@@ -1,0 +1,63 @@
+@options
+@packages
+-classpath
+'/home/pabgomsal2/.m2/repository/org/openjfx/javafx-graphics/16/javafx-graphics-16.jar:/home/pabgomsal2/.m2/repository/org/openjfx/javafx-graphics/16/javafx-graphics-16-linux.jar:/home/pabgomsal2/.m2/repository/org/openjfx/javafx-base/16/javafx-base-16.jar:/home/pabgomsal2/.m2/repository/org/openjfx/javafx-base/16/javafx-base-16-linux.jar:/home/pabgomsal2/.m2/repository/com/jfoenix/jfoenix/9.0.10/jfoenix-9.0.10.jar:/home/pabgomsal2/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1.jar:/home/pabgomsal2/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1-linux.jar:/home/pabgomsal2/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/3.0.1/jakarta.xml.bind-api-3.0.1.jar:/home/pabgomsal2/.m2/repository/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar:/home/pabgomsal2/.m2/repository/com/sun/xml/bind/jaxb-impl/3.0.2/jaxb-impl-3.0.2.jar:/home/pabgomsal2/.m2/repository/com/sun/xml/bind/jaxb-core/3.0.2/jaxb-core-3.0.2.jar:/home/pabgomsal2/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FalkensMaze 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'FalkensMaze 1.0-SNAPSHOT API'
+pedro.ieslaencanta.com.falkensmaze.components
+pedro.ieslaencanta.com.falkensmaze
+pedro.ieslaencanta.com.falkensmaze.model
+/home/pabgomsal2/.m2/repository/org/openjfx/javafx-graphics/16/javafx-graphics-16.jar = 1615222569000
+/home/pabgomsal2/.m2/repository/org/openjfx/javafx-graphics/16/javafx-graphics-16-linux.jar = 1615222574000
+/home/pabgomsal2/.m2/repository/org/openjfx/javafx-base/16/javafx-base-16.jar = 1615222532000
+/home/pabgomsal2/.m2/repository/org/openjfx/javafx-base/16/javafx-base-16-linux.jar = 1615222534000
+/home/pabgomsal2/.m2/repository/com/jfoenix/jfoenix/9.0.10/jfoenix-9.0.10.jar = 1591270177000
+/home/pabgomsal2/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1.jar = 1631778484000
+/home/pabgomsal2/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1-linux.jar = 1631778515000
+/home/pabgomsal2/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/3.0.1/jakarta.xml.bind-api-3.0.1.jar = 1616440738000
+/home/pabgomsal2/.m2/repository/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar = 1613118231000
+/home/pabgomsal2/.m2/repository/com/sun/xml/bind/jaxb-impl/3.0.2/jaxb-impl-3.0.2.jar = 1626788149000
+/home/pabgomsal2/.m2/repository/com/sun/xml/bind/jaxb-core/3.0.2/jaxb-core-3.0.2.jar = 1626788146000
+/home/pabgomsal2/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar = 1644606880000
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/src/main/java = 1714743562000
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/serialized-form.html = 1715881773281
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/search.html = 1715881773333
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/index.html = 1715881773309
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/module-search-index.js = 1715881773317
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/member-search-index.js = 1715881773321
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/index-all.html = 1715881773333
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/element-list = 1715881773257
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/script.js = 1715881773337
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/allpackages-index.html = 1715881773317
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/tag-search-index.js = 1715881773321
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/help-doc.html = 1715881773337
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/copy.svg = 1715881773337
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/stylesheet.css = 1715881773337
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/overview-summary.html = 1715881773333
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/package-search-index.js = 1715881773317
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/allclasses-index.html = 1715881773317
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/link.svg = 1715881773337
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/search.js = 1715881773337
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/type-search-index.js = 1715881773317
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/overview-tree.html = 1715881773305
+/home/pabgomsal2/Escriptori/entornos de desarrollo/practica 3 tema 5/falkensmaze/target/site/apidocs/search-page.js = 1715881773337
